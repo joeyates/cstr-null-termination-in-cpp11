@@ -1,0 +1,4 @@
+*.depend.mf
+*.o
+/cstr-null-termination-in-cpp11
+/Gemfile.lock
